@@ -1,4 +1,4 @@
-# C-programs-and-projects
+# C-CPlus-tasks
 A collection of my personal tasks and projects that I have worked on.
 
 Hi there!
