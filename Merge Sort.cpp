@@ -1,6 +1,3 @@
-//Name : Sheraz Ali
-//Roll No: 19101002-204
-
 #include <iostream> 
 #include<time.h>
 using namespace std;
